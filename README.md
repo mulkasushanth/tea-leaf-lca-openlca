@@ -50,6 +50,20 @@ This project was developed for learning and research purposes. The associated re
 
 ---
 
+## References
+
+This model was developed for academic learning and research purposes. Inventory data were compiled from literature review, engineering assumptions, and publicly available environmental information. Some values were simplified to demonstrate Life Cycle Assessment (LCA) modelling in OpenLCA.
+
+Typical references consulted include:
+
+- OpenLCA Documentation
+- ecoinvent Database (methodology reference)
+- ELCD (European Reference Life Cycle Database)
+- Published literature on tea cultivation and processing
+- Government agricultural reports
+
+---
+
 **Author:** Mulka Sushanth  
 **Institution:** National Institute of Technology Warangal
 
